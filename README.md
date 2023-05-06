@@ -6,7 +6,7 @@ To obtain the ingredient information only present on each product's dedicated pa
 
 Data extracted is converted to its necessary array state to ensure that all 'child' data matches correctly with its 'parent', product.
 
-
+This notebook utilizes the pandas, Selenium, and BeautifulSoup libraries.
 ## Screenshots
 
 ![App Screenshot](https://www.linkpicture.com/q/webscraperimg_1.jpg)
